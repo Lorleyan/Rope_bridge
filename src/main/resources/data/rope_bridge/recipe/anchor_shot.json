@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:arrow",
+    "minecraft:string",
+    "minecraft:feather"
+  ],
+  "result": {
+    "id": "rope_bridge:anchor_shot",
+    "count": 1
+  }
+}

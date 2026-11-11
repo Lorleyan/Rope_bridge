@@ -1,0 +1,8 @@
+{
+  "item.rope_bridge.anchor_shot": "Anchor Shot",
+  "rope_bridge.message.no_start_anchor": "No suitable starting anchor nearby.",
+  "rope_bridge.message.no_end_anchor": "The impact surface cannot hold an anchor.",
+  "rope_bridge.message.out_of_range": "The bridge is outside the supported length or height range.",
+  "rope_bridge.message.path_blocked": "The bridge path is blocked.",
+  "rope_bridge.message.created": "Anchor Shot bridge created."
+}
